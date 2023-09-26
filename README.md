@@ -14,7 +14,17 @@ Jizhe Zhou, Xiaochen Ma, Xia Du, Ahemd Y.Alhammadi, Wentao Feng* \
 3.<font face="黑体" size=4 color=grey> The 4th "Result Display" section shows some representative results of NCL on those frequently-compared images. Scroll down the right slide in this section to view all pictures. Random selection from the pic pool will be involving soon. Stay tuned.</font> \
 4.<font face="黑体" size=4 color=grey> We build a small playground in the 5th "Test Samples From Web" section. Substituting the default image URLs stored in "urls=[...]" with your own ones and then re-execute this section, you will get the results of TCL on your customized input! Hope you will enjoy it, and please contact us if any exception occurs.</font> \
 <font  size=2>-----------------------------------------------------------------------------------------------------</font> \
-<font face="Microsoft YaHei" size=4 color=blue> Vist our code directly through colab by clicking <a href="https://colab.research.google.com/github/Knightzjz/NCL-IML/blob/main/NCL_IML.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> \
+<font face="Microsoft YaHei" size=4 color=blue> Vist our code directly through colab by clicking <a href="https://colab.research.google.com/github/Knightzjz/NCL-IML/blob/main/NCL_IML.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </font> \
+We are a speical intresest group of IML, leading by Assocaite Researcher Jizhe Zhou and Professor. Jiancheng Lv, under Sichuan University. Please refer to [here](https://dicalab.cn/) for more information.  
+Also, here are some of our other works. Feel free to cite them 🉑.  
+1.<font face="黑体" size=4 color=grey> Our latest benchmark and the first pure ViT-based IML build.</font>[IML-ViT](https://github.com/dddb11/MVSS-Net) 🥇🥇🥇🥇  
+2.<font face="黑体" size=4 color=grey> Our corrected CASIAv2 dataset, with ground-truth mask correcly aligned.</font>[Casia2.0-Corrected](https://github.com/SunnyHaze/CASIA2.0-Corrected-Groundtruth) 🥈🥈🥈    
+3.<font face="黑体" size=4 color=grey> Our implementation of the Mile-stone Mantran-Net(CVPR 2019 by Wu, et.al) in Pytorch, with training code embedded.[Mantra-NetPytorch-withTraining](https://github.com/SunnyHaze/ManTraNet-Pytorch)</font>  🥇🥈🥉   
+4.<font face="黑体" size=4 color=grey> Our implementation of the MVSS-Net(ICCV 2021 by Dong, et.al) in Pytorch, with training code embedded.[MVSS-NetPytorch-withTraining](https://github.com/dddb11/MVSS-Net) 🥇🥇🥇🥇  
+ 
+
+
+
 <font  size=2>-----------------------------------------------------------------------------------------------------</font> 
 
 ## **Preparation**
