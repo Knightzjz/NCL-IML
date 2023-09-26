@@ -3,23 +3,23 @@
 
 # **Pre-training-free Image Manipulation Localization through Non-Mutually Contrastive Learning (ICCV2023)**
 
-Jizhe Zhou, Xiaochen Ma, Xia Du, Ahemd Y.Alhammadi, Wentao Feng* \\
-<font face="Microsoft YaHei" size=2> Sichuan University &  Xiamen University of Technology & Mohamed Bin Zayed University for Humanities </font> \\
-<font  size=2>------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</font> \\
-<font  size=4 color=blue>This colab contains the demo in our paper and creats a playground allowing you to test NCL model with your customized input. If you feel helpful, please cite our work. :D</font> \\
+Jizhe Zhou, Xiaochen Ma, Xia Du, Ahemd Y.Alhammadi, Wentao Feng* \
+<font face="Microsoft YaHei" size=2> Sichuan University &  Xiamen University of Technology & Mohamed Bin Zayed University for Humanities </font> \
+<font  size=2>-----------------------------------------------------------------------------------------------------------------------------------------------------</font> \
+<font  size=4 color=blue>This repo contains the code in our paper and creates a playground allowing you to test NCL model with your customized input. If you feel helpful, please cite our work. :p</font> \
 
-<font  size=2>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</font> \\
+<font  size=2>-----------------------------------------------------------------------------------------------------------------------------------------------------</font> \
 <mark><font size=4 color=blue> Playing Tips:</mark></font> \\
 
 1.<font face="黑体" size=4 color=grey> Due to Google Cloud Disk reasons, the "Preparation" section may not be running. But it WON'T break this notebook; just ignore it and execute the rest sections in sequence.</font> \\
 
 2.<font face="黑体" size=4 color=grey> The loaded CaCL-Net is the NCL model proposed in our paper.  The nickname "CaCL-Net" comes from a local Macau restaurant called "CaCL", where we came up with the NCL idea. </font> \\
 
-3.<font face="黑体" size=4 color=grey> The 4th "Result Display" section shows some representative results of NCL on those frequently-compared images. Scrolling down the right slide in this section to view all pictures. Random selection from the pic pool will be involving soon, stay tuned.</font> \\
+3.<font face="黑体" size=4 color=grey> The 4th "Result Display" section shows some representative results of NCL on those frequently-compared images. Scroll down the right slide in this section to view all pictures. Random selection from the pic pool will be involving soon. Stay tuned.</font> \\
 
-4.<font face="黑体" size=4 color=grey> We build a small playground in the 5th "Test Samples From Web" section. Substituting the default image URLs stored in "urls=[...]" with your own ones and then re-execute this section, you will get the results of TCL on your customized input! Hope you will enjoy it and please contact us if any exception occurs.</font> \\
+4.<font face="黑体" size=4 color=grey> We build a small playground in the 5th "Test Samples From Web" section. Substituting the default image URLs stored in "urls=[...]" with your own ones and then re-execute this section, you will get the results of TCL on your customized input! Hope you will enjoy it, and please contact us if any exception occurs.</font> \\
 
-<font  size=2>------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</font> \\
+<font  size=2>-----------------------------------------------------------------------------------------------------------------------------------------------------</font> \
 
 
 
