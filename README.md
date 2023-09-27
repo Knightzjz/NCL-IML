@@ -1,7 +1,7 @@
 <a href="https://colab.research.google.com/github/Knightzjz/NCL-IML/blob/main/NCL_IML.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>  ![Repository Views](https://komarev.com/ghpvc/?username=Knightzjz&label=Views&color=green)
 
 # **Pre-training-free Image Manipulation Localization through Non-Mutually Contrastive Learning (ICCV2023)**
-### 🏀Jizhe Zhou, 👨‍🎓Xiaochen Ma, 💪Xia Du, 👰‍♂️Ahemd Y.Alhammadi, 🏎️[Wentao Feng*](https://cs.scu.edu.cn/info/1359/17839.htm) 
+### 🏀Jizhe Zhou, 👨‍🎓Xiaochen Ma, 💪[Xia Du](https://cs.xmut.edu.cn/info/1085/4510.htm), 🇦🇪Ahemd Y.Alhammadi, 🏎️[Wentao Feng*](https://cs.scu.edu.cn/info/1359/17839.htm) 
 #### _Sichuan University_ &  _Xiamen University of Technology_ & _Mohamed Bin Zayed University for Humanities_  
 **** 
 This is the official repo of our paper [Pre-training-free Image Manipulation Localization through Non-Mutually Contrastive Learning](https://arxiv.org/abs/2309.14900).
@@ -17,13 +17,13 @@ This is the official repo of our paper [Pre-training-free Image Manipulation Loc
 **** 
 ## **Visit our code directly through colab by clicking** <a href="https://colab.research.google.com/github/Knightzjz/NCL-IML/blob/main/NCL_IML.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 ### >**A bit more about us:** 
-  We are the special interest group of IML, led by Associate Researcher 🏀 _Jizhe Zhou_ and Professor 👨‍🏫 _Jiancheng Lv_, under Sichuan University，🇨🇳. Please refer to [here](https://dicalab.cn/) for more information.  
+  We are the special interest group of IML, led by Associate Researcher 🏀 _Jizhe Zhou_ and Professor 👨‍🏫 _Jiancheng Lv_, under Sichuan University🇨🇳. Please refer to [here](https://dicalab.cn/) for more information.  
   Also, here are some of our other works. Feel free to cite them. 🀄   
 * 1🥇 Our latest benchmark and the first pure ViT-based IML build.</font>[IML-ViT](https://github.com/SunnyHaze/IML-ViT)       
-* 2🥈 Our corrected CASIAv2 dataset, with ground-truth mask correcly aligned.</font>[Casia2.0-Corrected](https://github.com/SunnyHaze/CASIA2.0-Corrected-Groundtruth)          
+* 2🥈 Our corrected CASIAv2 dataset, with ground-truth mask correctly aligned.</font>[Casia2.0-Corrected](https://github.com/SunnyHaze/CASIA2.0-Corrected-Groundtruth)          
 * 3🥉 Our implementation of the Mile-stone Mantran-Net(CVPR 2019 by Wu, et.al) in Pytorch, with training code embedded.[Mantra-NetPytorch-withTraining](https://github.com/SunnyHaze/ManTraNet-Pytorch)  
 * 4🥇 Our implementation of the MVSS-Net(ICCV 2021 by Dong, et.al) in Pytorch, with training code embedded.[MVSS-NetPytorch-withTraining](https://github.com/dddb11/MVSS-Net)  
->This repo will be under consistent construction. We will teleport you to our latest work right from here. Stay tuned. 
+>This repo will be under consistent construction. You will be teleported to our latest work right from here. Stay tuned.
 ****
 ****
 
