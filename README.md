@@ -1,5 +1,4 @@
-<a href="https://colab.research.google.com/github/Knightzjz/NCL-IML/blob/main/NCL_IML.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
+<a href="https://colab.research.google.com/github/Knightzjz/NCL-IML/blob/main/NCL_IML.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>  ![Repository Views](https://komarev.com/ghpvc/?username=Knightzjz&label=Views&color=green)
 
 # **Pre-training-free Image Manipulation Localization through Non-Mutually Contrastive Learning (ICCV2023)**
 
@@ -9,7 +8,6 @@
 >This repo contains the code in our paper and creates a playground allowing you to test NCL model with your customized input.📸If you feel helpful, please cite our work.  
 >Version `#0969DA`
 ****
-
 ### >**Playing Tips:**  
 1. Due to Google Cloud Disk reasons, the "Preparation" section may not be running. But it WON'T break this notebook; just ignore it and execute the rest sections in sequence.  
 2. The loaded CaCL-Net is the NCL model proposed in our paper.  The nickname "CaCL-Net" comes from a local Macau restaurant called "CaCL", where we came up with the NCL idea.  
@@ -28,7 +26,7 @@
 >This repo will be under consistent construction. We will teleport you to our latest work right from here. Stay tuned. 
 ****
 ****
-****
+
 ## **Preparation**
 
 
