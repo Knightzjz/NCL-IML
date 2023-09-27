@@ -1,10 +1,10 @@
 <a href="https://colab.research.google.com/github/Knightzjz/NCL-IML/blob/main/NCL_IML.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>  ![Repository Views](https://komarev.com/ghpvc/?username=Knightzjz&label=Views&color=green)
 
 # **Pre-training-free Image Manipulation Localization through Non-Mutually Contrastive Learning (ICCV2023)**
-
 ### 🏀Jizhe Zhou, 👨‍🎓Xiaochen Ma, 💪Xia Du, 👰‍♂️Ahemd Y.Alhammadi, 🏎️[Wentao Feng*](https://cs.scu.edu.cn/info/1359/17839.htm) 
 #### _Sichuan University_ &  _Xiamen University of Technology_ & _Mohamed Bin Zayed University for Humanities_  
-****
+**** 
+This is the official repo of our paper [Pre-training-free Image Manipulation Localization through Non-Mutually Contrastive Learning](https://arxiv.org/abs/2309.14900).
 >This repo contains the code in our paper and creates a playground allowing you to test NCL model with your customized input.📸If you feel helpful, please cite our work.  
 >Version `#0969DA`
 ****
@@ -225,5 +225,21 @@ test_image_from_web()
 
     
 ![png](img/download9.png)
+
+****
+
+## Citation
+
+```
+@inproceedings{zhou2023pretrainingfree,
+      title={Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning}, 
+      author={Jizhe Zhou and Xiaochen Ma and Xia Du and Ahmed Y. Alhammadi and Wentao Feng},
+      year={2023},
+      eprint={2309.14900},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
     
 
