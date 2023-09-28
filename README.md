@@ -26,8 +26,9 @@ This is the official repo of our paper [Pre-training-free Image Manipulation Loc
   Also, here are some of our other works. 🀄 Feel free to cite them.   
 * 1🥇 Our latest benchmark and the first pure ViT-based IML build.</font>[IML-ViT](https://github.com/SunnyHaze/IML-ViT)       
 * 2🥈 Our corrected CASIAv2 dataset, with ground-truth mask correctly aligned.</font>[Casia2.0-Corrected](https://github.com/SunnyHaze/CASIA2.0-Corrected-Groundtruth)          
-* 3🥉 Our implementation of the Mile-stone Mantran-Net(CVPR 2019 by Wu, et.al) in Pytorch, with training code embedded.[Mantra-NetPytorch-withTraining](https://github.com/SunnyHaze/ManTraNet-Pytorch)  
-* 4🥇 Our implementation of the MVSS-Net(ICCV 2021 by Dong, et.al) in Pytorch, with training code embedded.[MVSS-NetPytorch-withTraining](https://github.com/dddb11/MVSS-Net)  
+* 3🥉 Our implementation of the Mile-stone Mantran-Net(CVPR 2019 by Wu, et.al) in Pytorch, with training code embedded.[Mantra-NetPytorch-withTraining](https://github.com/SunnyHaze/ManTraNet-Pytorch)
+* 4🥈 Our Manipulation Mask Generator(PRML 2023 by Yang, et.al) can generate high quality datasets in python, with code embedded. [Manipulation-Mask-Generator](https://github.com/ndyysheep/MTVNR)
+* 5🥇 Our implementation of the MVSS-Net(ICCV 2021 by Dong, et.al) in Pytorch, with training code embedded.[MVSS-NetPytorch-withTraining](https://github.com/dddb11/MVSS-Net)  
 >This repo will be under consistent construction. You will be teleported to our latest work right from here. Stay tuned.
 ****
 ****
