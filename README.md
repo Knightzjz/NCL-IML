@@ -10,10 +10,9 @@
 #### _Sichuan University_ &  _Xiamen University of Technology_ & _Mohamed Bin Zayed University for Humanities_  
 **** 
 This is the official repo of our paper [Pre-training-free Image Manipulation Localization through Non-Mutually Contrastive Learning](https://arxiv.org/abs/2309.14900).
->This repo contains the code in our paper and creates a playground allowing you to test NCL model with your customized input. 📸 If you feel helpful, please cite our work.  
->Version `#0969DA`
+>📸 If you feel helpful, please cite our work. Version `#0969DA`
 ****
-### >**Playing Tips:**  
+### >**Play Tips:**  
 1. Due to Google Cloud Disk reasons, the "Preparation" section may not be running. But it WON'T break this notebook; just ignore it and execute the rest sections in sequence.  
 2. The loaded CaCL-Net is the NCL model proposed in our paper.  The nickname "CaCL-Net" comes from a local Macau restaurant called "CaCL", where we came up with the NCL idea.  
 3. The 4th "Result Display" section shows some representative results of NCL on those frequently-compared images. Scroll down the right slide in this section to view all pictures. Random selection from the pic pool will be involving soon. Stay tuned.  
@@ -21,14 +20,15 @@ This is the official repo of our paper [Pre-training-free Image Manipulation Loc
 
 **** 
 ## **Visit our code directly through colab by clicking** <a href="https://colab.research.google.com/github/Knightzjz/NCL-IML/blob/main/NCL_IML.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
-### >**A bit more about us:** 
-  We are the special interest group of IML, led by Associate Researcher 🏀 _Jizhe Zhou_ and Professor 👨‍🏫 _Jiancheng Lv_, under Sichuan University🇨🇳. Please refer to [here](https://dicalab.cn/) for more information.  
-  Also, here are some of our other works. 🀄 Feel free to cite them.   
+
+### >**A Bit More About Us:** 
+>We are the Special Interest Group on IML, led by Associate Researcher 🏀 _Jizhe Zhou_ and Professor 👨‍🏫 _Jiancheng Lv_, under Sichuan University🇨🇳. Please refer to [here](https://dicalab.cn/) for more information.  
+>Also, here are some of our other works. 🀄 Feel free to cite them.   
 * 1🥇 Our latest benchmark and the first pure ViT-based IML build.</font>[IML-ViT](https://github.com/SunnyHaze/IML-ViT)       
 * 2🥈 Our corrected CASIAv2 dataset, with ground-truth mask correctly aligned.</font>[Casia2.0-Corrected](https://github.com/SunnyHaze/CASIA2.0-Corrected-Groundtruth)          
-* 3🥉 Our implementation of the Mile-stone Mantran-Net(CVPR 2019 by Wu, et.al) in Pytorch, with training code embedded.[Mantra-NetPytorch-withTraining](https://github.com/SunnyHaze/ManTraNet-Pytorch)
-* 4🥈 Our Manipulation Mask Generator(PRML 2023 by Yang, et.al) can generate high quality datasets in python, with code embedded. [Manipulation-Mask-Generator](https://github.com/ndyysheep/MTVNR)
-* 5🥇 Our implementation of the MVSS-Net(ICCV 2021 by Dong, et.al) in Pytorch, with training code embedded.[MVSS-NetPytorch-withTraining](https://github.com/dddb11/MVSS-Net)  
+* 3🥉 Our implementation of the Mile-stone Mantran-Net (CVPR 2019 by Wu, et al.) in Pytorch, with training code embedded.[Mantra-NetPytorch-withTraining](https://github.com/SunnyHaze/ManTraNet-Pytorch)
+* 4🥈 Our Manipulation Mask Generator (PRML 2023 by Yang, et al.), which crawls real-life, open-posted tampered images and auto-generates high-quality IML datasets in Python, with code embedded. [Manipulation-Mask-Generator](https://github.com/ndyysheep/MTVNR)
+* 5🥇 Our implementation of the MVSS-Net (ICCV 2021 by Dong et al.) in Pytorch, with training code embedded.[MVSS-NetPytorch-withTraining](https://github.com/dddb11/MVSS-Net)  
 >This repo will be under consistent construction. You will be teleported to our latest work right from here. Stay tuned.
 ****
 ****
