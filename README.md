@@ -10,7 +10,7 @@
 #### _Sichuan University_ &  _Xiamen University of Technology_ & _Mohamed Bin Zayed University for Humanities_  
 **** 
 This is the official repo of our paper [Pre-training-free Image Manipulation Localization through Non-Mutually Contrastive Learning](https://arxiv.org/abs/2309.14900).
->📸 If you feel helpful, please cite our work. Version `#0969DA`
+>📸 If you feel helpful, please cite our work. Version `#0F305BD`
 ****
 ### >**Play Tips:**  
 1. Due to Google Cloud Disk reasons, the "Preparation" section may not be running. But it WON'T break this notebook; just ignore it and execute the rest sections in sequence.  
