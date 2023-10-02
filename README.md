@@ -238,13 +238,13 @@ test_image_from_web()
 ## Citation
 
 ```
-@inproceedings{zhou2023pretrainingfree,
-      title={Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning}, 
-      author={Jizhe Zhou and Xiaochen Ma and Xia Du and Ahmed Y. Alhammadi and Wentao Feng},
-      year={2023},
-      eprint={2309.14900},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{Zhou_2023_ICCV,
+    author    = {Zhou, Jizhe and Ma, Xiaochen and Du, Xia and Alhammadi, Ahmed Y. and Feng, Wentao},
+    title     = {Pre-Training-Free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {22346-22356}
 }
 ```
 
