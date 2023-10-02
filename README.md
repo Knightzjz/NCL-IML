@@ -9,7 +9,7 @@
 ### 🏀Jizhe Zhou, 👨‍🎓Xiaochen Ma, 💪[Xia Du](https://cs.xmut.edu.cn/info/1085/4510.htm), 🇦🇪Ahemd Y.Alhammadi, 🏎️[Wentao Feng*](https://cs.scu.edu.cn/info/1359/17839.htm) 
 #### _Sichuan University_ &  _Xiamen University of Technology_ & _Mohamed Bin Zayed University for Humanities_  
 **** 
-This is the official repo of our paper [Pre-training-free Image Manipulation Localization through Non-Mutually Contrastive Learning](https://arxiv.org/abs/2309.14900).
+This is the official repo of our paper [Pre-training-free Image Manipulation Localization through Non-Mutually Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.html).
 >📸 If you feel helpful, please cite our work. Version `#0F305BD`
 ****
 ### >**Play Tips:**  
@@ -238,13 +238,13 @@ test_image_from_web()
 ## Citation
 
 ```
-@inproceedings{zhou2023pretrainingfree,
-      title={Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning}, 
-      author={Jizhe Zhou and Xiaochen Ma and Xia Du and Ahmed Y. Alhammadi and Wentao Feng},
-      year={2023},
-      eprint={2309.14900},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{Zhou_2023_ICCV,
+    author    = {Zhou, Jizhe and Ma, Xiaochen and Du, Xia and Alhammadi, Ahmed Y. and Feng, Wentao},
+    title     = {Pre-Training-Free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {22346-22356}
 }
 ```
 
