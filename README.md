@@ -1,10 +1,10 @@
 <a href="https://colab.research.google.com/github/Knightzjz/NCL-IML/blob/main/NCL_IML.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-![Repository Views](https://komarev.com/ghpvc/?username=Knightzjz&label=Views&color=green)
-![GitHub repo size](https://img.shields.io/github/repo-size/Knightzjz/NCL-IML?logo=hack%20the%20box&color=red)
-![Powered by](https://img.shields.io/badge/Based_on-jupyter-purple?logo=jupyter)
-![Powered by](https://img.shields.io/badge/Based_on-opencv-yellow?logo=opencv)
-![Powered by](https://img.shields.io/badge/Based_on-googlecloud-pink?logo=google-cloud)  
-
+![Repository Views](https://komarev.com/ghpvc/?username=Knightzjz&label=Views&color=yellow)
+![GitHub repo size](https://img.shields.io/github/repo-size/Knightzjz/NCL-IML?logo=hack%20the%20box&color=pink)
+![last commit](https://img.shields.io/github/last-commit/Knightzjz/NCL-IML)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
+[![License: GPLv3](https://img.shields.io/badge/License-GPLv3-purple.svg)](https://www.gnu.org/licenses/gpl-3.0)  
 # **Pre-training-free Image Manipulation Localization through Non-Mutually Contrastive Learning (ICCV2023)**
 ### 🏀Jizhe Zhou, 👨‍🎓Xiaochen Ma, 💪[Xia Du](https://cs.xmut.edu.cn/info/1085/4510.htm), 🇦🇪Ahemd Y.Alhammadi, 🏎️[Wentao Feng*](https://cs.scu.edu.cn/info/1359/17839.htm) 
 #### _Sichuan University_ &  _Xiamen University of Technology_ & _Mohamed Bin Zayed University for Humanities_  
