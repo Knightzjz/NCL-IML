@@ -6,11 +6,11 @@
 [![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
 [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-purple.svg)](https://www.gnu.org/licenses/gpl-3.0)  
 # **Pre-training-free Image Manipulation Localization through Non-Mutually Contrastive Learning (ICCV2023)**
-### 🏀Jizhe Zhou, 👨‍🎓Xiaochen Ma, 💪[Xia Du](https://cs.xmut.edu.cn/info/1085/4510.htm), 🇦🇪Ahemd Y.Alhammadi, 🏎️[Wentao Feng*](https://cs.scu.edu.cn/info/1359/17839.htm) 
+### 🏀Jizhe Zhou, 👨‍🎓[Xiaochen Ma](https://xiaochen.world/), 💪[Xia Du](https://cs.xmut.edu.cn/info/1085/4510.htm), 🇦🇪Ahemd Y.Alhammadi, 🏎️[Wentao Feng*](https://cs.scu.edu.cn/info/1359/17839.htm) 
 #### _Sichuan University_ &  _Xiamen University of Technology_ & _Mohamed Bin Zayed University for Humanities_  
 **** 
 This is the official repo of our paper [Pre-training-free Image Manipulation Localization through Non-Mutually Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.pdf).
->📸 If you feel helpful, please cite our work. Version `#0F305BD`
+>📸 If you feel helpful, please cite our work and **star this repo**. Version `#AB5J61`
 ****
 ### >**Play Tips:**  
 1. Due to Google Cloud Disk reasons, the "Preparation" section may not be running. But it WON'T break this notebook; just ignore it and execute the rest sections in sequence.  
@@ -23,11 +23,11 @@ This is the official repo of our paper [Pre-training-free Image Manipulation Loc
 
 ### >**A Bit More About Us:** 
 >We are the Special Interest Group on IML, led by Associate Researcher 🏀 _Jizhe Zhou_ and Professor 👨‍🏫 _Jiancheng Lv_, under Sichuan University🇨🇳. Please refer to [here](https://dicalab.cn/) for more information.  
->Also, here are some of our other works. 🀄 Feel free to cite them.   
-* 1🥇 Our latest benchmark and the first pure ViT-based IML build.</font> [IML-ViT](https://github.com/SunnyHaze/IML-ViT)       
-* 2🥈 Our corrected CASIAv2 dataset, with ground-truth mask correctly aligned.</font> [Casia2.0-Corrected](https://github.com/SunnyHaze/CASIA2.0-Corrected-Groundtruth)          
-* 3🥉 Our implementation of the Mile-stone Mantran-Net (CVPR 2019 by Wu, et al.) in Pytorch, with training code embedded. [Mantra-NetPytorch-withTraining](https://github.com/SunnyHaze/ManTraNet-Pytorch)
-* 4🥇 Our implementation of the MVSS-Net (ICCV 2021 by Dong et al.) in Pytorch, with training code embedded. [MVSS-NetPytorch-withTraining](https://github.com/dddb11/MVSS-Net)  
+>Also, here are some of our other works. 🀄 Feel free to cite and star them.   
+* 1🥇 Our latest benchmark and the first pure ViT-based IML build.</font> [IML-ViT](https://github.com/SunnyHaze/IML-ViT)
+* 2🥇 Our implementation of the MVSS-Net (ICCV 2021 by Dong et al.) in Pytorch, with training code embedded. [MVSS-NetPytorch-withTraining](https://github.com/dddb11/MVSS-Net)    
+* 3🥈 Our corrected CASIAv2 dataset, with ground-truth mask correctly aligned.</font> [Casia2.0-Corrected](https://github.com/SunnyHaze/CASIA2.0-Corrected-Groundtruth)          
+* 4🥉 Our implementation of the Mile-stone Mantran-Net (CVPR 2019 by Wu, et al.) in Pytorch, with training code embedded. [Mantra-NetPytorch-withTraining](https://github.com/SunnyHaze/ManTraNet-Pytorch)  
 * 5🥈 Our Manipulation Mask Generator (PRML 2023 by Yang, et al.), which crawls real-life, open-posted tampered images and auto-generates high-quality IML datasets in Python, with code embedded. [Manipulation-Mask-Generator](https://github.com/ndyysheep/MTVNR)
 * 6🏅 Our attempts of MAE on image manipulation localization in pytorch. [Manipulation-MAE](https://github.com/chelton-niu/Manipulation-MAE)
 >This repo will be under consistent construction. You will be teleported to our latest work right from here. Stay tuned.
