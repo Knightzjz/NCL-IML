@@ -10,8 +10,8 @@
 #### _Sichuan University_ &  _Xiamen University of Technology_ & _Mohamed Bin Zayed University for Humanities_  
 **** 
 This is the official repo of our paper [Pre-training-free Image Manipulation Localization through Non-Mutually Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.pdf).
->📸 If you feel helpful, please cite our work and **star this repo**. Version `#BDP979`
->### 💥💥💥 Deduplicated NIST16 Dataset is now released!!!!!!!
+>### 💥💥💥 Deduplicated NIST16 Dataset is now released!!!!!!! 🔥🔥🔥 
+>📸 If you feel helpful, please cite our work and **star this repo**. Version `#BDP979`, updated on Nov.22th.
 ****
 ### >**Play Tips:**  
 1. Due to Google Cloud Disk reasons, the "Preparation" section may not be running. But it WON'T break this notebook; just ignore it and execute the rest sections in sequence.  
