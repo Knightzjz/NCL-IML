@@ -27,7 +27,7 @@ This is the official repo of our paper [Pre-training-free Image Manipulation Loc
 >Also, here are some of our other works. 🀄 Feel free to cite and star them.
 -------------------------------------------------------------------------------------------------
 ### Latest Update (Nov. 22th)
-* ➡️ Our corrected NIST16 dataset, duplicated images are removed and the label leakage problem are fully addressed. Training and testing splits are also provided. [NIST16-Deduplicated](https://github.com/DSLJDI/NIST16-data-set-deduplication/tree/main)
+* ➡️ Our corrected NIST16 dataset, duplicated images and the label leakage problem are fully addressed. Training and testing splits are also provided. [NIST16-Deduplicated](https://github.com/DSLJDI/NIST16-data-set-deduplication/tree/main)
 ---------------------------------------------------------------------------------------------------
 * 1🥇 Our latest benchmark and the first pure ViT-based IML build.</font> [IML-ViT](https://github.com/SunnyHaze/IML-ViT)
 * 2🥇 Our implementation of the MVSS-Net (ICCV 2021 by Dong et al.) in Pytorch, with training code embedded. [MVSS-NetPytorch-withTraining](https://github.com/dddb11/MVSS-Net)    
