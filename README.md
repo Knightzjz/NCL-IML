@@ -10,7 +10,7 @@
 #### _Sichuan University_ &  _Xiamen University of Technology_ & _Mohamed Bin Zayed University for Humanities_  
 **** 
 This is the official repo of our paper [Pre-training-free Image Manipulation Localization through Non-Mutually Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.pdf).
->### 🎅[Christmas Specialty] Training Code for our [IML-ViT](https://github.com/SunnyHaze/IML-ViT) is Now Released. Do note that IML-ViT is the latest benchmark (till Dec. 2024) and possibly the only fully-opensourced bechmark on Git. Feel free to test it and conduct us for any exceptions or doubts. Your contribution is always appreciated! Hope you enjoy our code and Merry Xmas for you all!🎄🎄
+>### 🎅[Christmas Specialties] Training Code for our [IML-ViT](https://github.com/SunnyHaze/IML-ViT) is now released. Do note that IML-ViT is the latest benchmark (till Dec. 2024) and possibly the only fully-opensourced bechmark on Git. Feel free to test it and conduct us for any exceptions or doubts. Your contribution is always appreciated! Hope you enjoy our project, recognize our effort on IML community, and Merry Xmas for you all!🎄🎄
 >📸 If you feel helpful, please cite our work and **star this repo**. Version `#BDG773`, updated on Dec.25th.
 ****
 ### >**Play Tips:**  
