@@ -10,8 +10,13 @@
 #### _Sichuan University_ &  _Xiamen University of Technology_ & _Mohamed Bin Zayed University for Humanities_  
 **** 
 This is the official repo of our paper [Pre-training-free Image Manipulation Localization through Non-Mutually Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.pdf).
->### 🎅[Christmas Specialties] Training Code for our [IML-ViT](https://github.com/SunnyHaze/IML-ViT) is now released. Do note that IML-ViT is the latest benchmark (till Dec. 2024) and possibly the only fully-opensourced bechmark on Git. Feel free to test it and conduct us for any exceptions or doubts. Your contribution is always appreciated! Hope you enjoy our project, recognize our effort on IML community, and Merry Xmas for you all!🎄🎄
->📸 If you feel helpful, please cite our work and **star this repo**. Version `#BDG773`, updated on Dec.25th.
+>### 🌳[Spring Specialties] The recalled photo from Kate Middleton, i.e., Princess of Whales, has been tested by our latest model IML-ViT, reach the results here. 🌳
+
+
+
+
+>### 🎅[Christmas Specialties] Training Code for our [IML-ViT](https://github.com/SunnyHaze/IML-ViT) is now released. Do note that IML-ViT is the latest benchmark (till Dec. 2024) and possibly the only fully open-source benchmark on Git. Feel free to test it and contact us for any exceptions or doubts. Your contribution is always appreciated! Hope you enjoy our project and recognize our effort in the IML community. And Merry Xmas to you all!🎄🎄
+>📸 If you feel helpful, please cite our work and **star this repo**. Version `#BGC305`, updated on 19th Mar.
 ****
 ### >**Play Tips:**  
 1. Due to Google Cloud Disk reasons, the "Preparation" section may not be running. But it WON'T break this notebook; just ignore it and execute the rest sections in sequence.  
