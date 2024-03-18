@@ -11,7 +11,7 @@
 **** 
 This is the official repo of our paper [Pre-training-free Image Manipulation Localization through Non-Mutually Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.pdf).
 >### 🌳[Spring Specialties] The recalled photo from Kate Middleton, i.e., Princess of Whales, has been tested by our latest model IML-ViT, reach the results here. For high-resolution localization results, please visit the IML-ViT model below and upload the photo by yourself. 🌳
-![png](img/Kate.png)
+![png](img/kate2.jpg)
 >### 🎅[Christmas Specialties] Training Code for our [IML-ViT](https://github.com/SunnyHaze/IML-ViT) is now released. Do note that IML-ViT is the latest benchmark (till Dec. 2024) and possibly the only fully open-source benchmark on Git. Feel free to test it and contact us for any exceptions or doubts. Your contribution is always appreciated! Hope you enjoy our project and recognize our effort in the IML community. And Merry Xmas to you all!🎄🎄
 >📸 If you feel helpful, please cite our work and **star this repo**. Version `#BGC305`, updated on 19th Mar.
 ****
