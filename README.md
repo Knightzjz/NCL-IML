@@ -10,7 +10,6 @@
 #### _Sichuan University_ &  _Xiamen University of Technology_ & _Mohamed Bin Zayed University for Humanities_  
 **** 
 This is the official repo of our paper [Pre-training-free Image Manipulation Localization through Non-Mutually Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.pdf).
->### 📝 **Blog**: [分久必合：统一的伪造图像检测（Unified FID）](https://knightzjz.github.io/blog/unified-fid.html) / [Long Divided, Must Unite](https://knightzjz.github.io/blog/unified-fid-en.html) — an introduction to the Unified Fake Image Detection task and the discussion on why this task matters, and where the field is heading.
 >### 🌳[Spring Specialties] 🔥(April 3rd) We also tested the 2'14'' [video](https://news.sky.com/story/kates-cancer-diagnosis-watch-princess-of-waless-video-message-in-full-13100006) from Kate and NCL discovers strong manipulation traces around the entire body of Kate, indicating this video is faked through the "reenactment" technique. Video reenactment commonly drives a still image (Kate's photo) by another human actor (driven video). This is also the reason why the background in this 2'14'' video is frozen-still.  
 >### (March 19th) The Mother's Day photo from Kate Middleton, i.e., Princess of Whales, has been tested by our latest model IML-ViT. Reach the results here. For high-resolution localization results, please visit the IML-ViT model below and upload the photo by yourself. 🌳 
 ![png](img/kate2.jpg)
